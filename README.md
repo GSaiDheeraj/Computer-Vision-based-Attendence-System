@@ -8,7 +8,9 @@ Data: Uploaded the data in the Repository
 https://user-images.githubusercontent.com/60067496/115334867-c620eb80-a1b9-11eb-93d0-5ff04b76f36e.mp4
 
 1) HOG Feature Estimation
+
 ![image](https://user-images.githubusercontent.com/60067496/203234645-e9076b73-48bb-4d93-bc71-7df464444e69.png)
+
 ![image](https://user-images.githubusercontent.com/60067496/203234675-925a79b0-d217-4d37-b949-b47fbe873188.png)
 
 2) Facae landmark estimation
