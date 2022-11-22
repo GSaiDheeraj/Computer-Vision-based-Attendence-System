@@ -25,6 +25,6 @@ OpenFace already did this and they published several trained networks which we c
 
 So all we need to do ourselves is run our face images through their pre-trained network to get the 128 measurements for each face. Here’s the measurements for our test image
 
-![image](https://user-images.githubusercontent.com/60067496/203235636-66b4eaa5-60bf-41ea-8f89-9d8cfee033c8.png)
+![image](https://user-images.githubusercontent.com/60067496/203235757-c81a2592-fc39-4c29-b1ce-c3a0a2fb38a3.png)
 
 4) Find persons name from encoding
