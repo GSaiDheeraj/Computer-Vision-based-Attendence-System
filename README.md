@@ -20,6 +20,7 @@ https://user-images.githubusercontent.com/60067496/115334867-c620eb80-a1b9-11eb-
 The basic idea is we will come up with 68 specific points (called landmarks) that exist on every face — the top of the chin, the outside edge of each eye, the inner edge of each eyebrow, etc. Then we will train a machine learning algorithm to be able to find these 68 specific points on any face
 
 3) Face Encodings
+
 OpenFace already did this and they published several trained networks which we can directly use. Thanks Brandon Amos and team!
 
 So all we need to do ourselves is run our face images through their pre-trained network to get the 128 measurements for each face. Here’s the measurements for our test image
